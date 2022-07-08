@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-chi/render v1.0.1
-	github.com/kobsio/kobs v0.9.0
+	github.com/kobsio/kobs v0.9.1
 	github.com/mitchellh/mapstructure v1.5.0
 	go.uber.org/zap v1.21.0
 )

@@ -1527,10 +1527,10 @@
   optionalDependencies:
     fsevents "^2.3.2"
 
-"@kobsio/shared@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@kobsio/shared/-/shared-0.9.0.tgz#16fed2709de8758f1b3e019dd8a8f9623a62619b"
-  integrity sha512-cCgclkHiyM73mnuI+AUO9g5kU/ei5+q4NZZ+TFC+dpDXxxWljeQr03m/phB+rDKAOFUIMzU5o4cqZp/k83oBfg==
+"@kobsio/shared@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@kobsio/shared/-/shared-0.9.1.tgz#ce70da8f04c079a8549f38a80b3ffa3db984abac"
+  integrity sha512-T5Njq9Wc23B7dLgiT7taNEAXBlKcWQj8aA48h5lvLDblTg7E6wP1ugqOXn2bMn35SDRR65h1oEH976dicSoxqg==
   dependencies:
     "@nivo/core" "^0.79.0"
     "@nivo/tooltip" "^0.79.0"
